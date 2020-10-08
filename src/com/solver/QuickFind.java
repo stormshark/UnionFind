@@ -10,11 +10,12 @@ public class QuickFind {
         unionFindArray = new int[sizeofArray];
         System.out.println("Please enter elements of array");
         int i = 0;
-        while (i < sizeofArray) {
+        unionFindArray = new int[]{0, 1, 2, 3, 4, 5, 6, 7, 8, 9};
+       /* while (i < sizeofArray) {
             System.out.println(i + 1 + " .th element");
             unionFindArray[i] = reader.nextInt();
             i++;
-        }
+        }*/
 
     }
 // 0 ,1
