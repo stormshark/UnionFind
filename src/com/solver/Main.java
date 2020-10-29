@@ -16,6 +16,10 @@ public class Main {
         quickFind.connect(9,4);
         quickFind.connect(2,1);
         quickFind.connect(8,9);
+        quickFind.connect(0,5);
+        quickFind.connect(7,2);
+        quickFind.connect(6,1);
+
 */
         QuickUnion quickUnion = new QuickUnion();
         quickUnion.connect(4,3);
@@ -25,7 +29,7 @@ public class Main {
         quickUnion.connect(2,1);
         quickUnion.connect(8,9);
 
-    }
+        }
 
 
 }

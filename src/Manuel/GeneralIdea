@@ -1,0 +1,12 @@
+QUICK FIND
+we assign first value to second value to into first value
+by that way we are able to connect the nodes to each other
+after every new connections we need to make sure if there is other connection related to that one
+we need to update all related connections though.
+
+after all, we are going to have connected cluster/s which means if array index has same number with others
+they are connected.
+
+QUICK UNION
+
+
